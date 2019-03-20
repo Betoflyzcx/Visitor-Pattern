@@ -1,0 +1,6 @@
+class Visitor
+{
+	public:
+	
+	private:
+};
